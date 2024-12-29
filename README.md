@@ -2,7 +2,7 @@
 
 <h2>👨🏿‍💻 Cybersecurity Projects:</h2>
 
-- [Basic Network Scanning and Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Basic Network Scanning and Analysis](https://github.com/TechFella1024/Network-Scanning-and-Analysis-)
 - [Password Strength Checker](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - [Log Analysis with Splunk](https://github.com/joshmadakor1/Sentinel-Lab)
 - [Packet Capture and Analysis](https://github.com/joshmadakor1/Jwipe.PowerShell)
