@@ -6,7 +6,7 @@
 - [Password Strength Checker](https://github.com/TechFella1024/PasswordStrengthChecker)
 - [Log Analysis with Splunk](https://github.com/TechFella1024/LogAnalysiswithSplunk-)
 - [Packet Capture and Analysis](https://github.com/TechFella1024/PacketCaptureandAnalysis)
-- [Simple Web Application Vulnerability Scan](https://github.com/joshmadakor1/AD_PS)
+- [Simple Web Application Vulnerability Scan](https://github.com/TechFella1024/SimpleWebApplicationVulnerabilityScan)
 
 <h2>🗞️ Certifications</h2>
 
